@@ -2,7 +2,7 @@ input_id=input('id: ')
 id='jiyoung'
 input_password=input('password:')
 
-password='010417'
+password='0000'
 #comment
 
 if input_id == id:
