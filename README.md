@@ -12,4 +12,6 @@ return 0;
 }
 ```
 
+[링크 추가](https://miunoribird.tistory.com/)
+
 깃 공부중❓❔
